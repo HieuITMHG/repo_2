@@ -1,0 +1,14 @@
+{
+  "name": "core-auth-service",
+  "version": "1.0.0",
+  "description": "User identity and status service in repo_2",
+  "main": "dist/server.js",
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  }
+}
